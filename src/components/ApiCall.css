@@ -1,0 +1,11 @@
+.api-body{
+    margin: 0 auto;
+    display: block;
+    width: 400px;
+    padding: 40px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    box-shadow: 1px 1px 10px 10px;
+    margin-top: 20px;
+
+}
